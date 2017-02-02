@@ -1,2 +1,2 @@
 # Documentation Directory. 
-All your documentation should go here.
+Documentation of all code and instructions on use are located here. 

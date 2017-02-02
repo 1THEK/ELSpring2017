@@ -1,2 +1,2 @@
 ## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+Extra sources or materail that is not code or documentaation is here

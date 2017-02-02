@@ -1,2 +1,2 @@
 # Code Directory. 
-All your code should go here. Make sure files are named as explicitly as possible.
+Code for this project is located here. It contains the most current version.
