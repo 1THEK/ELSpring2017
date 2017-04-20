@@ -1,0 +1,33 @@
+﻿Jason Goodman
+Kevyn Martinez
+Karen Ho
+4/17/17
+             Moisture, Humidity, and Temperature Control for a Container Garden Project
+
+Project Goal:
+Design and implement a system to monitor the soil and ambient atmospheric conditions in a container that grows plants. The system will keep the soil at a constant predetermined level, as well as monitor the ambient temperature and humidity around the plants.
+ 
+Finished Features:
+·         The DHT22 sensor is set up and running.
+·         The temperature probe is set up and running.
+·         The soil moisture sensor is set up and running.
+·         Python script to dump the sensor data into a MySQL database is complete.
+·         Raspberry Pi web server is up and running.
+·         A PHP script to retrieve the MySQL tables is functional.
+·         Python script to turn the water pump on and off is complete.
+Unfinished Features:
+·         Water pump still needs to be integrated with the rest of the sensors.
+·         Feature that detects when the plant is dry and pumps water as a response.
+·         Website needs to be mobile friendly.
+·         Website needs to not look barren and only contain SQL data.
+·         Final presentation needs to be made.
+ 
+Jason Goodman:
+For the project I have implemented the DHT22 sensor, temperature probe, and soil moisture sensor. In addition, I created a python script that retrieves the sensor data and sends it to a MySQL database. Lastly, I made the Raspberry Pi into a web server where it currently hosts the site. The website displays values from the MySQL database through the use of a small php script that will soon be expanded upon. 
+ 
+Kevyn Martinez:
+	For this project, i have been in charge of developing the website for receiving and displaying the data from the SQL database. Also, I am in charge of making sure the website is easy to read by the user and to make the website mobile friendly. As in right now, we are doing comparison between php and html5 and see which one will suit our needs better.
+Karen Ho:
+ For this project,I implement the motor, make the 3D enclosure, work on the website, and work on the final hardware/software integration. 
+ 
+
