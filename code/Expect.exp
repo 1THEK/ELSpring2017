@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+spawn "./Run.sh"
+spawn "./Wyvern.sh"
+expect "YOUR_NP_ACCOUNT@wyvern.cs.newpaltz.edu's password:"
+send "YOUR_PASSWORD\r"
+interact
+spawn "./Wyvern2.sh"
+expect "YOUR_NP_ACCOUNT@wyvern.cs.newpaltz.edu's password:"
+send "YOUR_PASSWORD\r"
+interact
+
